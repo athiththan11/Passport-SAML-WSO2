@@ -38,10 +38,4 @@ Use the following command to start the express application
 npm start
 ```
 
-or
-
-```shell
-nodemon server.js
-```
-
 navigate to [http://localhost:3000/app](http://localhost:3000/app)
