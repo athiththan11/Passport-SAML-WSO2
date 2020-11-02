@@ -22,6 +22,8 @@ Create a `.env` file in the root directory and enter the following properties
 SESSION_SECRET="a well secured secret"
 
 SAML_ENTRYPOINT="https://localhost:9443/samlsso"
+
+# for tenant specific Service Providers append the tenant domain: SampleExpressApp@foo.com
 SAML_ISSUER="SampleExpressApp"
 SAML_PROTOCOL="http://"
 SAML_LOGOUTURL="https://localhost:9443/samlsso"
