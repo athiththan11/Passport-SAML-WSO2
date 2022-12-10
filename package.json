@@ -17,7 +17,7 @@
 		"body-parser": "1.19.0",
 		"dotenv": "8.0.0",
 		"ejs": "2.6.2",
-		"express": "4.17.1",
+		"express": "4.17.3",
 		"express-session": "1.16.2",
 		"passport": "0.3.2",
 		"passport-saml": "0.15.0"
